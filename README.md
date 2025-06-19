@@ -28,6 +28,7 @@ project-root/
 │ ├── routes/campaign.js # Campaign CRUD routes
 │ └── server.js # Server entry point
 
+---
 
 .env 
 DB_HOST=localhost
@@ -37,6 +38,8 @@ DB_NAME=campaign_db
 JWT_SECRET=your_jwt_secret
 PORT=5000
 
+---
+
 Run the Project using 
 
 cd backend
@@ -44,6 +47,8 @@ npm run dev
 
 cd frontend
 npm run dev
+
+---
 
 ✅ Features
 🔐 User Auth: Signup/Login with bcrypt + JWT
@@ -58,6 +63,8 @@ npm run dev
 
 🚪 Logout: Session handling with logout button
 
+---
+
 🖼 UI Screens
 ✅ Login / Signup
 
@@ -65,5 +72,7 @@ npm run dev
 
 ✅ Add / Edit / Delete Campaigns
 
+---
 👨‍💻 Author
 Made with ❤️ by Maaz Ahmad Khan
+Linkedin : linkedin.com/in/maaz-ahmad-khan-b052062b6
