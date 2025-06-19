@@ -37,6 +37,13 @@ DB_NAME=campaign_db
 JWT_SECRET=your_jwt_secret
 PORT=5000
 
+Run the Project using 
+
+cd backend
+npm run dev
+
+cd frontend
+npm run dev
 
 ✅ Features
 🔐 User Auth: Signup/Login with bcrypt + JWT
